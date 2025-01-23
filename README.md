@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a5988aa-83cb-4ae6-aedd-f59653917f09" alt="naklejka" width="50%">
+  <img src="https://github.com/user-attachments/assets/0a5988aa-83cb-4ae6-aedd-f59653917f09" alt="naklejka" width="55%">
 </div>
 
 
