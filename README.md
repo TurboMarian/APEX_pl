@@ -103,6 +103,11 @@
 </div>
 
 
+## PCB Layout
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1092ae30-0265-40d5-9ebd-c244409e2ea4" alt="naklejka" width="95%">
+</div>
 
 
 
