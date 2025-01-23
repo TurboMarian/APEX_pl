@@ -106,8 +106,10 @@
 ## PCB Layout
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1092ae30-0265-40d5-9ebd-c244409e2ea4" alt="naklejka" width="95%">
+  <img src="https://github.com/user-attachments/assets/073cc388-bc1d-4599-940b-7406b2930105" alt="naklejka" width="95%">
 </div>
+
+
 
 
 
