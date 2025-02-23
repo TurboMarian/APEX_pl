@@ -240,10 +240,15 @@
 
 
 
-<!-- Naklejka (wycentrowana) -->
 <div class="center">
-  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="50%">
+  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="55%">
 </div>
 
-</body>
-</html>
+## PCB
+<div class="center">
+  <img src="https://github.com/user-attachments/assets/4be4ace9-2204-4d22-ac0a-9a4a20f1b159" alt="pcb" width="55%">
+</div>
+
+
+
+
