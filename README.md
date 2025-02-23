@@ -115,7 +115,7 @@
   <tr>
     <td>
       <div align="left">
-        <img src="https://github.com/user-attachments/assets/b496d4ea-cc52-464d-8e90-a2e83be1d03b" alt="naklejka" width="65%">
+        <img src="https://github.com/user-attachments/assets/b496d4ea-cc52-464d-8e90-a2e83be1d03b" alt="naklejka" width="70%">
       </div>
     </td>
     <td align="center">
@@ -135,6 +135,25 @@
       4 - LSU PIN 5<br>
       5 - LSU PIN 1<br>
       <br><strong>LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE</strong>
+    </td>
+  </tr>
+</table>
+
+## SPI5 CONNECTOR
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://github.com/user-attachments/assets/ea6489d2-817d-4648-8d05-b27e5785b4d7" alt="SPI5" width="50%">
+      </div>
+    </td>
+    <td align="center">
+      <strong>SPI5:</strong><br><br>
+      1 - SPI5 SCK<br>
+      2 - SPI5 MISO<br>
+      3 - SPI5 MOSI<br>
+      4 - SPI5 CS1 (PF10)<br>
+      5 - SPI5 CS2 (PF5)
     </td>
   </tr>
 </table>
