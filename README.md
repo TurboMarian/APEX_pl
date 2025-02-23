@@ -98,9 +98,6 @@
 | C8                  |       | CEWKA 8                           |       | F8                   |       | GND                         |
 
       
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="55%">
-</div>
 
 
 ## PCB Layout
@@ -139,6 +136,75 @@
   </tr>
 </table>
 
+## LSU 4.9 CONNECTOR
+
+<div align="left">
+        <img src="https://github.com/user-attachments/assets/5913830f-605d-4a51-9635-8c93a41e3664" alt="naklejka" width="65%">
+      </div>
+
+## EGT/ANALOG/KNOCK/USB/DIGITAL/AUX CONNECTORS
+
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://github.com/user-attachments/assets/8e5822b1-3525-4df8-8b20-5a3d4dfbc909" alt="VR" width="105%">
+      </div>
+    </td>
+    <td align="center">
+      <strong>VR:</strong><br><br>
+      1 - VR3-<br>
+      2 - VR3+<br>
+      3 - VR4-<br>
+      4 - VR4+
+    </td>
+    <td align="center">
+      <strong>EGT:</strong><br><br>
+      1 - K+<br>
+      2 - K-<br>
+      3 - K1+<br>
+      4 - K1-
+    </td>
+    <td align="center">
+      <strong>ANALOG IN:</strong><br><br>
+      1 - ANALOG INPUT 10<br>
+      2 - ANALOG INPUT 11<br>
+      3 - ANALOG INPUT 12<br>
+      4 - NOT USED
+    </td>
+    <td align="center">
+      <strong>KNOCK:</strong><br><br>
+      1 - KNOCK SENSOR 1<br>
+      2 - KNOCK SENSOR 2<br>
+      3 - KNOCK AUDIO OUTPUT 1<br>
+      4 - KNOCK AUDIO OUTPUT 2
+    </td>
+    <td align="center">
+      <strong>USB:</strong><br><br>
+      1 - VBUS<br>
+      2 - D-<br>
+      3 - D+<br>
+      4 - GND
+    </td>
+    <td align="center">
+      <strong>DIGITAL IN:</strong><br><br>
+      1 - DIGITAL IN 3<br>
+      2 - DIGITAL IN 4<br>
+      3 - DIGITAL IN 5<br>
+      4 - DIGITAL IN 6
+    </td>
+    <td align="center">
+      <strong>DIGITAL IN/AUX:</strong><br><br>
+      1 - DIGITAL IN 7<br>
+      2 - DIGITAL IN 8<br>
+      3 - AUX 7<br>
+      4 - AUX 8
+    </td>
+  </tr>
+</table>
+
+
+
 ## SPI5 CONNECTOR
 <table>
   <tr>
@@ -158,7 +224,27 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://github.com/user-attachments/assets/9d346c36-0cd5-4926-82a2-080b6bc4a592" alt="VR" width="50%">
+      </div>
+    </td>
+    <td align="center">
+      <strong>VR:</strong><br><br>
+      1 - VR3-<br>
+      2 - VR3+<br>
+      3 - VR4-<br>
+      4 - VR4+
+    </td>
+  </tr>
+</table>
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="55%">
+</div>
 
 
 
