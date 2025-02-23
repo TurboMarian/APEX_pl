@@ -239,7 +239,7 @@
 </table>
 
 
-
+## OBUDOWA
 <div class="center">
   <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="55%">
 </div>
