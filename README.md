@@ -139,7 +139,7 @@
 ## LSU 4.9 CONNECTOR
 
 <div align="left">
-        <img src="https://github.com/user-attachments/assets/5913830f-605d-4a51-9635-8c93a41e3664" alt="naklejka" width="65%">
+        <img src="https://github.com/user-attachments/assets/5913830f-605d-4a51-9635-8c93a41e3664" alt="naklejka" width="55%">
       </div>
 
 ## EGT/ANALOG/KNOCK/USB/DIGITAL/AUX CONNECTORS
