@@ -118,26 +118,29 @@
         <img src="https://github.com/user-attachments/assets/b496d4ea-cc52-464d-8e90-a2e83be1d03b" alt="naklejka" width="65%">
       </div>
     </td>
-    <td>
-      <strong>WIDEBAND 1:</strong><br>
+    <td align="center">
+      <strong>WIDEBAND 1:</strong><br><br>
       1 - LSU PIN 4<br>
       2 - LSU PIN 6<br>
       3 - LSU PIN 2<br>
       4 - LSU PIN 5<br>
-      5 - LSU PIN 1
-      LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE
+      5 - LSU PIN 1<br>
+      <br><strong>LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE</strong>
     </td>
-    <td>
-      <strong>WIDEBAND 2:</strong><br>
+    <td align="center">
+      <strong>WIDEBAND 2:</strong><br><br>
       1 - LSU PIN 4<br>
       2 - LSU PIN 6<br>
       3 - LSU PIN 2<br>
       4 - LSU PIN 5<br>
-      5 - LSU PIN 1
-      LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE
+      5 - LSU PIN 1<br>
+      <br><strong>LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE</strong>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
