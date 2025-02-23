@@ -109,6 +109,39 @@
   <img src="https://github.com/user-attachments/assets/6b73b7d4-867f-4398-a5b6-4b52e0a0de97" alt="naklejka" width="100%">
 </div>
 
+## WIDEBAND PINOUT
+
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://github.com/user-attachments/assets/b496d4ea-cc52-464d-8e90-a2e83be1d03b" alt="naklejka" width="65%">
+      </div>
+    </td>
+    <td>
+      <strong>WIDEBAND 1:</strong><br>
+      1 - LSU PIN 4<br>
+      2 - LSU PIN 6<br>
+      3 - LSU PIN 2<br>
+      4 - LSU PIN 5<br>
+      5 - LSU PIN 1
+      LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE
+    </td>
+    <td>
+      <strong>WIDEBAND 2:</strong><br>
+      1 - LSU PIN 4<br>
+      2 - LSU PIN 6<br>
+      3 - LSU PIN 2<br>
+      4 - LSU PIN 5<br>
+      5 - LSU PIN 1
+      LSU PIN 3 - CONNECT TO SWITCHED +12V WITH 5A FUSE
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
