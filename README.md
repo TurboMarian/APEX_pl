@@ -152,13 +152,6 @@
       </div>
     </td>
     <td align="center">
-      <strong>VR:</strong><br><br>
-      1 - VR3-<br>
-      2 - VR3+<br>
-      3 - VR4-<br>
-      4 - VR4+
-    </td>
-    <td align="center">
       <strong>EGT:</strong><br><br>
       1 - K+<br>
       2 - K-<br>
