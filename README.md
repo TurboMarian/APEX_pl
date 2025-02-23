@@ -205,15 +205,23 @@
 
 
 
-## SPI5 CONNECTOR
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h2>SPI5 CONNECTOR & VR INPUTS CONNECTOR</h2>
+
 <table>
   <tr>
+    <!-- SPI5 -->
     <td>
-      <div align="left">
-        <img src="https://github.com/user-attachments/assets/ea6489d2-817d-4648-8d05-b27e5785b4d7" alt="SPI5" width="50%">
-      </div>
+      <img src="https://github.com/user-attachments/assets/ea6489d2-817d-4648-8d05-b27e5785b4d7" alt="SPI5" width="40%">
     </td>
-    <td align="center">
+    <td class="desc">
       <strong>SPI5:</strong><br><br>
       1 - SPI5 SCK<br>
       2 - SPI5 MISO<br>
@@ -222,18 +230,12 @@
       5 - SPI5 CS2 (PF5)
     </td>
   </tr>
-</table>
-
-## VR INPUTS CONNECTOR
-
-<table>
   <tr>
+    <!-- VR -->
     <td>
-      <div align="left">
-        <img src="https://github.com/user-attachments/assets/9d346c36-0cd5-4926-82a2-080b6bc4a592" alt="VR" width="50%">
-      </div>
+      <img src="https://github.com/user-attachments/assets/9d346c36-0cd5-4926-82a2-080b6bc4a592" alt="VR" width="40%">
     </td>
-    <td align="center">
+    <td class="desc">
       <strong>VR:</strong><br><br>
       1 - VR3-<br>
       2 - VR3+<br>
@@ -244,15 +246,11 @@
 </table>
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="55%">
+
+<!-- Naklejka (wycentrowana) -->
+<div class="center">
+  <img src="https://github.com/user-attachments/assets/754b5384-3ff9-43f3-93fb-265ce7787895" alt="naklejka" width="45%">
 </div>
 
-
-
-
-
-
-
-
-
+</body>
+</html>
