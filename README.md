@@ -224,6 +224,8 @@
   </tr>
 </table>
 
+## VR INPUTS CONNECTOR
+
 <table>
   <tr>
     <td>
