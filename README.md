@@ -248,7 +248,7 @@
 
 ## PCB
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4be4ace9-2204-4d22-ac0a-9a4a20f1b159" alt="pcb" width="55%">
+  <img src="https://github.com/user-attachments/assets/4fd3904c-2e51-4152-aae9-a1798210707b" alt="pcb" width="55%">
 </div>
 
 
