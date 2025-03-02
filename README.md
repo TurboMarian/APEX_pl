@@ -37,8 +37,9 @@
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20TunerStudio%20INI-green?style=for-the-badge&logo=download&logoColor=white "Download RusEFI TunerStudio INI")]()
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20TunerStudio%20INI-green?style=for-the-badge&logo=download&logoColor=white "Download RusEFI TunerStudio INI")](https://github.com/user-attachments/files/19044270/rusefi_apex.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
+
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20Console-purple?style=for-the-badge&logo=download&logoColor=white "Download RusEFI Console")]()
