@@ -33,8 +33,9 @@
 (Right click and 'Save link as...')
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20Firmware-blue?style=for-the-badge&logo=download&logoColor=white "Download RusEFI Firmware")]()
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20Firmware-blue?style=for-the-badge&logo=download&logoColor=white "Download RusEFI Firmware")](https://github.com/user-attachments/files/19044275/rusefi.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
+
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20TunerStudio%20INI-green?style=for-the-badge&logo=download&logoColor=white "Download RusEFI TunerStudio INI")](https://github.com/user-attachments/files/19044270/rusefi_apex.zip)
@@ -42,7 +43,7 @@
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20Console-purple?style=for-the-badge&logo=download&logoColor=white "Download RusEFI Console")]()
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-RusEFI%20Console-purple?style=for-the-badge&logo=download&logoColor=white "Download RusEFI Console")](https://drive.google.com/file/d/1GC37ijTprq1gyn9G_KEFeLXi3cPBaATD/view?usp=drive_link)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 ## FOME Firmware
